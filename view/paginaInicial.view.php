@@ -16,6 +16,7 @@
                     <tr style='background-color:#009688'>
                         <th data-tablesaw-sortable-col data-tablesaw-priority="1"><center>Meu Universo</center></th>
                         <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Tu Es Soberano</center></th>
+                        <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Eu cuido de Ti</center></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -64,6 +65,30 @@ Pois, sei em quem tenho crido
 Também sei que és poderoso
 Pra fazer infinitamente mais
 Pra fazer infinitamente mais
+                            </textarea>
+                        </td>
+                        <td>
+                            <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
+Quando todos os meus medos Já não cabem mais em mim
+Quando o céu está de bronze E parece que é o fim
+Quando o vento está revolto O mar não quer se acalmar
+Quando as horas do relógio Se demoram a passar
+Muitas vezes os Seus planos Não consigo entender
+Mas prefiro confiar sem compreender
+Eu creio em Ti, Eu creio em Ti
+Eu olho pra Ti e espero em Ti
+Quando você sente medo Do teu lado Eu estou
+E é bom que você saiba Que Eu sinto a sua dor
+Também nunca se esqueça Que o mar posso acalmar
+E que Eu sei o tempo certo Da vitória te entregar
+Este tempo é necessário pra te amadurecer
+E depois vem novidades pra você
+Eu cuido de ti, Eu cuido de ti
+Descansa em mim, comece a sorrir
+O que Eu tenho é bem maior Pois só Eu sei do amanhã
+Então recebe um abraço meu Pois da tua vida cuido Eu
+Eu cuido de ti, Eu cuido de ti 2x
+Eu creio em ti, Eu creio em ti 2x
                             </textarea>
                         </td>
                     </tr>
