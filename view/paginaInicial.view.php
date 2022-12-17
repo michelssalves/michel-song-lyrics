@@ -17,6 +17,7 @@
                         <th data-tablesaw-sortable-col data-tablesaw-priority="1"><center>Meu Universo</center></th>
                         <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Tu Es Soberano</center></th>
                         <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Eu cuido de Ti</center></th>
+                        <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Uma Coisa Nova</center></th>
                     </tr>
                 </thead>
                 <tbody>
