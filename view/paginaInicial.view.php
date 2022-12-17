@@ -98,6 +98,27 @@ Eu cuido de ti, Eu cuido de ti 2x
 Eu creio em ti, Eu creio em ti 2x
                             </textarea>
                         </td>
+                        <td>
+                            <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
+Uma coisa nova
+Deus está fazendo
+Rios no ermo, caminhos no deserto
+O coração dos pais aos filhos, se converterão
+O coração dos filhos aos pais
+Arcos de fogo, flechas incendiadas
+O coração dos pais aos filhos, se converterão
+O coração dos filhos aos pais
+Arcos de fogo, flechas incendiadas
+Pais e filhos
+Céu e terra
+Um propósito
+Um destino
+Arcos de fogo, flechas incendiadas
+Os vossos filhos profetizarão
+Os vossos filhos profetizarão
+Arcos de fogo, flechas incendiadas
+                            </textarea>
+                        </td>
                     </tr>
                 </tbody>  
             </table>
