@@ -18,54 +18,58 @@
                         <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Tu Es Soberano</center></th>
                         <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Eu cuido de Ti</center></th>
                         <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Uma Coisa Nova</center></th>
+                        <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Essencia da Adoração</center></th>
+                        <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Pra Sempre</center></th>
+                        <th data-tablesaw-sortable-col data-tablesaw-priority="5"><center>Oh Quao Lindo</center></th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>
                             <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
-Que sejas meu universo                   
-Não quero dar-Te só um pouco do meu tempo
-Não quero dar-Te um dia apenas da semana
-Que sejas meu universo                  
-Não quero dar-Te as palavras como gotas
-Quero que saia um dilúvio
-De bençãos da minha boca
-Que sejas meu universo
-Que sejas tudo o que sinto e o que penso
-Que de manhã seja o primeiro pensamento
-E a luz em minha janela
-Que sejas meu universo
-Que enchas cada um dos meus pensamentos
-Que a tua presença
-E o Teu poder seja o alimento
-Jesus este é o meu desejo
-Que sejas meu universo
-Não quero dar-Te só
-Uma parte dos meus anos
-Te quero dono do meu tempo
-E dos meus planos
-Que sejas meu universo
-Não quero a minha vontade, quero agradar-Te
-E cada sonho que há em mim
-Quero entregar-Te
+QUE SEJAS MEU UNIVERSO                   
+NÃO QUERO DAR-TE SÓ UM POUCO DO MEU TEMPO
+NÃO QUERO DAR-TE UM DIA APENAS DA SEMANA
+QUE SEJAS MEU UNIVERSO                  
+NÃO QUERO DAR-TE AS PALAVRAS COMO GOTAS
+QUERO QUE SAIA UM DILÚVIO
+DE BENÇÃOS DA MINHA BOCA
+QUE SEJAS MEU UNIVERSO
+QUE SEJAS TUDO O QUE SINTO E O QUE PENSO
+QUE DE MANHÃ SEJA O PRIMEIRO PENSAMENTO
+E A LUZ EM MINHA JANELA
+QUE SEJAS MEU UNIVERSO
+QUE ENCHAS CADA UM DOS MEUS PENSAMENTOS
+QUE A TUA PRESENÇA
+E O TEU PODER SEJA O ALIMENTO
+JESUS ESTE É O MEU DESEJO
+QUE SEJAS MEU UNIVERSO
+NÃO QUERO DAR-TE SÓ
+UMA PARTE DOS MEUS ANOS
+TE QUERO DONO DO MEU TEMPO
+E DOS MEUS PLANOS
+QUE SEJAS MEU UNIVERSO
+NÃO QUERO A MINHA VONTADE, QUERO AGRADAR-TE
+E CADA SONHO QUE HÁ EM MIM
+QUERO ENTREGAR-TE
                             </textarea>
                                                     <td>
                             <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
-Sim, eu sei Senhor que tu és soberano
-Tens os teus caminhos tens teus próprios planos
-Venho, pois, a cada dia, venho cheio de alegria
-E me coloco em Tuas mãos, pois és fiel
-Sim, eu sei Senhor que tu és poderoso
-És um Deus tremendo, Pai de amor bondoso
-Venho, pois, a cada dia, venho cheio de alegria
-E me coloco em tuas mãos, pois és fiel
-Fiel é tua Palavra oh Senhor
-Perfeitos os teus caminhos meu Senhor
-Pois, sei em quem tenho crido 
-Também sei que és poderoso
-Pra fazer infinitamente mais
-Pra fazer infinitamente mais
+SIM, EU SEI SENHOR QUE TU ÉS SOBERANO
+TENS OS TEUS CAMINHOS TENS TEUS PRÓPRIOS PLANOS
+VENHO, POIS, A CADA DIA, VENHO CHEIO DE ALEGRIA
+E ME COLOCO EM TUAS MÃOS, POIS ÉS FIEL
+SIM, EU SEI SENHOR QUE TU ÉS PODEROSO
+ÉS UM DEUS TREMENDO, PAI DE AMOR BONDOSO
+VENHO, POIS, A CADA DIA, VENHO CHEIO DE ALEGRIA
+E ME COLOCO EM TUAS MÃOS, POIS ÉS FIEL
+FIEL É TUA PALAVRA OH SENHOR
+PERFEITOS OS TEUS CAMINHOS MEU SENHOR
+POIS, SEI EM QUEM TENHO CRIDO 
+TAMBÉM SEI QUE ÉS PODEROSO
+PRA FAZER INFINITAMENTE MAIS
+PRA FAZER INFINITAMENTE MAIS
+
                             </textarea>
                         </td>
                         <td>
@@ -120,6 +124,77 @@ Os vossos filhos profetizarão
 Arcos de fogo, flechas incendiadas
                             </textarea>
                         </td>
+                        <td>
+                            <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
+Uma coisa nova
+Deus está fazendo
+Rios no ermo, caminhos no deserto
+O coração dos pais aos filhos, se converterão
+O coração dos filhos aos pais
+Arcos de fogo, flechas incendiadas
+O coração dos pais aos filhos, se converterão
+O coração dos filhos aos pais
+Arcos de fogo, flechas incendiadas
+Pais e filhos
+Céu e terra
+Um propósito
+Um destino
+Arcos de fogo, flechas incendiadas
+Os vossos filhos profetizarão
+Os vossos filhos profetizarão
+Arcos de fogo, flechas incendiadas
+                            </textarea>
+                        </td>
+                        <td>
+                            <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
+                            O UNIVERSO CHORA
+O SOL SE APAGOU
+ALI ESTAVA MORTO O SALVADOR
+SEU CORPO LÁ NA CRUZ
+SEU SANGUE DERRAMOU
+O PESO DO PECADO ELE LEVOU
+DEUS PAI O ABANDONOU
+CESSOU SEU RESPIRAR
+EM TREVAS SE ENCONTROU O FILHO
+A GUERRA COMEÇOU, A MORTE ENFRENTOU
+TODO O PODER DAS TREVAS VENCIDO FOI
+A TERRA ESTREMECEU, O SEPULCRO SE ABRIU
+E NADA VENCERÁ SEU GRANDE AMOR
+Ó, MORTE, ONDE ESTÁS?
+O REI RESSUSCITOU
+ELE VENCEU PRA SEMPRE
+PRA SEMPRE EXALTADO É
+PRA SEMPRE ADORADO É
+PRA SEMPRE ELE VIVE
+RESSUSCITOU, RESSUSCITOU
+                            </textarea>
+                        </td>
+                        <td>
+                            <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
+                            NO INÍCIO ERAS A PALAVRA
+UM COM DEUS, O ALTÍSSIMO
+O MISTÉRIO DE TUA GLÓRIA
+CRISTO EM TI SE REVELOU
+OH, QUÃO LINDO ESSE NOME É
+OH, QUÃO LINDO ESSE NOME É
+O NOME DE JESUS, MEU REI
+OH, QUÃO LINDO ESSE NOME É
+MAIOR QUE TUDO ELE É
+OH, QUÃO LINDO ESSE NOME É
+O NOME DE JESUS
+DEIXOU O CÉU PARA BUSCAR-NOS
+VEIO PRA NOS RESGATAR
+AMOR MAIOR QUE O MEU PECADO
+NADA VAI NOS SEPARAR
+OH, QUÃO MARAVILHOSO É
+OH, QUÃO MARAVILHOSO É
+O NOME DE JESUS, MEU REI
+OH, QUÃO MARAVILHOSO É
+MAIOR QUE TUDO ELE É
+OH, QUÃO MARAVILHOSO É
+O NOME DE JESUS
+                            </textarea>
+                        </td>    
                     </tr>
                 </tbody>  
             </table>
