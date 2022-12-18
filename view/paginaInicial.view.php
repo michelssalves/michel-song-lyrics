@@ -26,7 +26,7 @@
                 <tbody>
                     <tr>
                         <td>
-                            <textarea disabled class="textAreaclass" name="observacao" cols="38" lines="5">
+                            <textarea disabled class="textAreaclass" name="observacao" cols="40" lines="5">
 QUE SEJAS MEU UNIVERSO                   
 NÃO QUERO DAR-TE SÓ UM POUCO DO MEU TEMPO
 NÃO QUERO DAR-TE UM DIA APENAS DA SEMANA
